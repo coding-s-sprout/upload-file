@@ -10,7 +10,7 @@ $ cd sample-server
 $ docker-compose up -d
 ```
 # API 명세
-![스크린샷 2023-06-01 오후 5 49 56](https://github.com/sangminlee98/sample-server/assets/83197138/872e8964-7ea8-4367-b012-4912b292352e)
+![스크린샷 2023-06-01 오후 10 12 50](https://github.com/sangminlee98/sample-server/assets/83197138/82f306a0-4c56-4d9b-a89d-c67a86ec352d)
 
 ## 1. getTodos
   ### Request
