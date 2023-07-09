@@ -18,7 +18,7 @@ services:
 
   spring-boot:
     container_name: sample-server
-    image: tkdals0978/sample-server
+    build: .
     restart: always
     ports:
       - "8080:8080"

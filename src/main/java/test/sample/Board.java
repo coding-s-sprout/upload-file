@@ -22,11 +22,14 @@ public class Board {
 
     private String title;
 
+    private String thumbnail;
+
     private boolean done;
 
     @Builder
-    public Board(String title) {
+    public Board(String title, String thumbnail) {
         this.title = title;
+        this.thumbnail = thumbnail;
         this.done = false;
     }
 
